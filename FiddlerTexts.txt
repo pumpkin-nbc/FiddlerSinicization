@@ -1,0 +1,305 @@
+&File==文件
+&Capture Traffic==捕获请求
+&New Viewer==&新会话窗口
+L&oad Archive...==载入...
+&Recent Archives==最近打开的...
+Clear this &List==清除列表
+&Prune Obsolete==&Prune Obsolete
+&Save==保存
+&All Sessions...==所有会话...
+Selected &Sessions==选中的回话
+in Archive&Zip...==in Archive&Zip...
+as &Text...==作为文本...
+as Text (&Headers only)...==作为文本(仅协议头)...
+&Request==请求
+&Entire Request...==完整请求...
+Request &Body...==请求数据...
+R&esponse==响应
+&Entire Response...==完整响应...
+&Response Body...==响应数据...
+... and Open as Local &File==... and Open as Local &File
+&Import Sessions...==导入会话...
+&Export Sessions==导出会话
+&Selected Sessions...==选中的会话...
+E&xit==退出
+&Edit==编辑
+&Copy==复制
+&Session	Ctrl+Shift+S==&Session	Ctrl+Shift+S
+Just &Url	Ctrl+U==仅复制网址	Ctrl+U
+&Headers only	Ctrl+Shift+C==只协议头	Ctrl+Shift+C
+&Full Summary	Ctrl+C==&Full Summary	Ctrl+C
+&Terse Summary	Ctrl+Shift+T==&Terse Summary	Ctrl+Shift+T
+&Remove==删除
+&Selected Sessions	Del==删除选中会话
+&Unselected Sessions	Shift+Del==未选中的请求	Shift+Del
+&All Sessions	Ctrl+X==所有会话	Ctrl+X
+Select &All	Ctrl+A==选中所有	Ctrl+A
+&Undelete==&Undelete
+&Paste as Sessions==&Paste as Sessions
+&Mark==标记
+Strikeout	Minus==Strikeout	Minus
+&Red	Ctrl+1==红色	Ctrl+1
+&Blue	Ctrl+2==蓝色	Ctrl+2
+Gol&d	Ctrl+3==金色	Ctrl+3
+&Green	Ctrl+4==绿色	Ctrl+4
+&Orange	Ctrl+5==橙色	Ctrl+5
+&Purple	Ctrl+6==紫色	Ctrl+6
+&Unmark	Ctrl+0==解除标记	Ctrl+0
+Unlock for &Editing	F2==解除编辑锁定	F2
+&Find Sessions...==查找会话...
+&Rules==规则
+Hide &Image Requests==隐藏图片请求
+Hide &CONNECTs==隐藏CONNECT请求
+Automatic Breakpoint&s==自动断点
+&Before Requests==在请求前
+&After Responses==在返回后
+&Disabled==禁用
+&Ignore Images==忽略图片
+Customize &Rules...==自定义规则...
+Require &Proxy Authentication==请求代理认证
+Apply G&ZIP Encoding==使用GZIP压缩
+Remove All &Encodings==移除所有格式
+过滤过大的请求==过滤过大的请求
+Hide 304s==隐藏304跳转
+&Automatically Authenticate==自动认证
+&User-Agents==&User-Agents
+Netscape &3==Netscape &3
+WinPhone8.1==WinPhone8.1
+&Safari5 (Win7)==&Safari5 (Win7)
+Safari9 (Mac)==Safari9 (Mac)
+iPad==iPad
+iPhone6==iPhone6
+IE &6 (XPSP2)==IE &6 (XPSP2)
+IE &7 (Vista)==IE &7 (Vista)
+IE 8 (Win2k3 x64)==IE 8 (Win2k3 x64)
+IE &8 (Win7)==IE &8 (Win7)
+IE 9 (Win7)==IE 9 (Win7)
+IE 10 (Win8)==IE 10 (Win8)
+IE 11 (Surface2)==IE 11 (Surface2)
+IE 11 (Win8.1)==IE 11 (Win8.1)
+Edge (Win10)==Edge (Win10)
+&Opera==&Opera
+&Firefox 3.6==&Firefox 3.6
+&Firefox 43==&Firefox 43
+&Firefox Phone==&Firefox Phone
+&Firefox (Mac)==&Firefox (Mac)
+Chrome (Win)==Chrome (Win)
+Chrome (Android)==Chrome (Android)
+ChromeBook==ChromeBook
+GoogleBot Crawler==GoogleBot Crawler
+Kindle Fire (Silk)==Kindle Fire (Silk)
+&Custom...==自定义...
+Disabled==禁用
+Per&formance==性能设置
+Simulate &Modem Speeds==模拟慢速网络
+&Disable Caching==禁用缓存
+Cache Always &Fresh==总是刷新缓存
+&Tools==工具
+&Options...==选项...
+&WinINET Options...==WinINET 选项...
+&Clear WinINET Cache==清除IE缓存
+Clear WinINET Coo&kies==清除IE Cookie
+T&extWizard...==文本编辑...
+Co&mpare Sessions	Ctrl+W==比较会话	Ctrl+W
+Reset Script==重置脚本
+&Sandbox==沙盒
+&View IE Cache==查看IE缓存
+&View==显示
+Sho&w Toolbar==显示工具条
+&Default Layout==默认布局
+Stac&ked Layout==堆叠布局
+Wid&e Layout==宽体布局
+Ta&bs==选项卡
+&Preferences==偏好
+&Statistics==统计
+&Inspectors==检查
+&Composer==构成
+&Minimize to Tray==最小化到托盘图标
+Stay on &Top==始终在最前
+Squish Session &List==紧凑会话列表
+&AutoScroll Session List==自动滚动会话列表
+&Refresh==刷新
+&Help==帮助
+Fiddler &Book==Fiddler 数据
+Dis&cussions==讨论
+HTTP &References==HTTP 详解
+&Troubleshoot...==故障排除...
+&Get Priority Support...==获取技术支持...
+Check for &Updates...==检查更新...
+&Send Feedback...==发送反馈...
+&About==关于
+册 Fiddler==册 Fiddler
+躲 Fiddler...==躲 Fiddler...
+躲==躲
+This &Column==这一列
+Response &DataURI==返回数据 URI
+in Archive&ZIP...==在压缩档案中...
+as Text...==作为文本...
+...and Open as Local &File==...and Open as Local &File
+Mat&h==数学
+&Sum and Average==总和和平均数
+R&eplay==重做
+Reissue &Requests	R==重发请求	R
+Reissue &Unconditionally	U==无条件重发	U
+Reissue and &Edit	E==重发并且编辑	E
+Reissue and &Verify	V==重发并验证	V
+Reissue Sequentially	S==顺序重发	S
+Reissue from &Composer==编辑并重发
+Revisit in &IE==在IE中打开
+Se&lect==选择
+&Parent Request	P==请求起源	P
+&Child Requests	C==子请求	C
+&Duplicate Requests	D==复制请求	D
+Matching Values	Alt+Click==匹配值	Alt+Click
+Inspectors==会话详细
+Composer==请求编辑
+Statistics==请求统计
+AutoResponder==自动转发
+Transformer==Transformer
+Compression info shown here...==压缩信息显示在这里...
+No Session Selected==没有选中会话
+HTTP Compression==HTTP 压缩
+Brotli==Brotli
+Use Zopfli to GZIP/DEFLATE==使用 Zopfli to GZIP/DEFLATE
+Unknown HTTP Encoding specified==未知 HTTP 压缩方式
+BZIP2==BZIP2
+None==无压缩
+GZIP==Gzip压缩
+DEFLATE==DEFLATE
+Chunked Transfer-Encoding==分块传输
+Help...==帮助...
+Headers==协议头
+[ Raw ]==[ 数据 ]
+[Header Definitions]==[协议头解释]
+TextView==文本查看
+View in Notepad==在记事本中打开
+SyntaxView==语法查看
+Loading...==载入中...
+ImageView==图片查看
+Not an image==不是一个图片
+Edit Image...==编辑图片...
+Find on Map...==Find on Map...
+Autoshrink==自动收缩
+HexView==十六进制查看
+WebView==网格查看
+Auth==认证
+Caching==缓存
+Cookies==Cookies
+Raw==数据
+JSON==JSON
+Collapse==收缩
+Expand All==展开所有
+XML==XML
+Response body was dropped to conserve memory.==返回数据被抛弃以保护内存。
+Response body is encoded. Click to decode.==返回数据被压缩过了，点击解压.
+Choose Response...==选择响应...
+Breakpoint hit. Tamper, then:==断点命中. Tamper, then:
+Run to &Completion==运行到完成
+&Break on Response==在返回时断点
+WebForms==网格视图
+Request body is encoded. Click to decode.==请求数据被压缩过了，点击解压.
+ HTTPS decryption is disabled. Click to configure...== HTTPS 解密被禁用，点击配置...
+Copy this chart==复制图表
+Show Chart==显示图标
+Unmatched requests passthrough==Unmatched requests passthrough
+Enable Latency==Enable Latency
+Enable rules==启用规则
+Help==帮助
+Rule Editor==规则编辑器
+Match only once==只匹配一次
+Test...==测试...
+Update all selected matches to respond with:==Update all selected matches to respond with:
+Save==保存
+Import...==导入...
+Add Rule==加入规则
+Fiddler can return previously generated responses instead of using the network.==Fiddler can return previously generated responses instead of using the network.
+Decode Selected Sessions==解码选中的会话
+AutoScroll Session List==自动滚动列表
+&Filter Now==过滤
+Commen&t...	M==增加备注...	M
+C&ompare	Ctrl+W==比较...	Ctrl+W
+Abort Session==终止会话
+C&lone Response==克隆响应数据
+Unloc&k For Editing	F2==解锁编辑	F2
+Inspect in &New Window...	Shift+Enter==在新窗口中检查	Shift+Enter
+&Properties...	Alt+Enter==连接属性...	Alt+Enter
+COMETPeek==COMETPeek
+隐藏图片请求==隐藏图片请求
+隐藏CONNECT请求==隐藏CONNECT请求
+自动断点==自动断点
+在请求前==在请求前
+在返回后==在返回后
+禁用==禁用
+忽略图片==忽略图片
+自定义规则...==自定义规则...
+请求代理认证==请求代理认证
+使用GZIP压缩==使用GZIP压缩
+移除所有格式==移除所有格式
+隐藏304跳转==隐藏304跳转
+自动认证==自动认证
+自定义...==自定义...
+性能设置==性能设置
+模拟慢速网络==模拟慢速网络
+禁用缓存==禁用缓存
+总是刷新缓存==总是刷新缓存
+选项...==选项...
+WinINET 选项...==WinINET 选项...
+清除IE缓存==清除IE缓存
+清除IE Cookie==清除IE Cookie
+文本编辑...==文本编辑...
+比较会话	Ctrl+W==比较会话	Ctrl+W
+重置脚本==重置脚本
+沙盒==沙盒
+查看IE缓存==查看IE缓存
+#==序号
+Result==状态代码
+Protocol==请求协议
+Host==主机地址
+URL==URL地址
+Body==内容长度
+Content-Type==请求内容类型
+Process==进程
+Comments==备注
+Custom==自定义
+Overall_Elapsed==总计时长
+RequestMethod==请求方法
+[QuickExec] ALT+Q > type HELP to learn more==[快捷命令] ALT+Q > 输入 HELP 来了解更多
+Replay==重复
+Go==继续
+Stream==流数据
+Decode==解密
+Keep: All sessions==最多显示：所有会话
+Any Process==任何进程
+Find==查找
+Browse==浏览器...
+Clear Cache==清除缓存
+TextWizard==文本向导
+Tearoff==分离
+Online==网络信息
+Progress Telerik Fiddler Web Debugger==Progress Telerik Fiddler Web Debugger - 汉化插件:by V雪落有声V
+Hint: Hit CTRL+X to instantly clear the list.==从会话列表中删除指定的会话.
+Hold SHIFT to resume only selected sessions.==继续执行所有被断点暂停的会话.
+In Streaming Mode, responses are streamed to the client as they are read from the server.==在流模式中，响应从服务器读取时流到客户端。
+When enabled, all traffic is decompressed for easy viewing.==启用时，所有流量都解压缩，便于查看。
+Select the maximum number of sessions to keep.==选择需要保持显示的最大会话数量。
+Right-click to cancel the filter.==拖动此图标到想要截取流量的窗口（进程）上
+Find sessions containing specified content.==查找包含指定字符串的会话
+Save all sessions to a SAZ file.==将所有会话保存到SAZ文件中
+Hold SHIFT to skip countdown.==截屏并且显示在一个会话中.
+A simple timer. Click to start/stop, right-click to clear.==一个简单的定时器. 左键单击开始/停止, 右键单击重置.
+Launch IE to the selected URL, or about:blank.==启动IE并打开指定网址，或者显示空白页.
+Clear the WinINET cache. Hold CTRL to also delete persistent cookies.==清除WININET Cookie. 按住CTRL同时将清理持久性COOKIE。
+Launch the TextWizard to encode/decode text.==打开文本向导来编码解码文本。
+Open Details View in a floating window.==将详情列表分离为浮动窗口
+Show Progress Telerik Fiddler's online help.==显示在线帮助文档。
+Close this toolbar. Click View / Show Toolbar to get it back.==关闭工具条。 点击 视图 / 显示 工具条 来重新显示.
+Hold SHIFT to add a mock Comment-only Session.==为选中的会话增加备注.
+Hold SHIFT to reissue multiple times.==重新执行选中的请求.
+Add a comment to the selected sessions.[LF]Hold SHIFT to add a mock Comment-only Session.==为选中的会话增加备注[LF]按住SHIFT将备注单独显示在会话列表中。
+Reissue the selected requests.[LF]Hold CTRL to reissue unconditionally.[LF]Hold SHIFT to reissue multiple times.==重新发送选中的请求.[LF]按住CTRL无条件的重新发送请求。[LF]按住SHIFT可以多次重发请求。
+Remove sessions from the Web Sessions list.[LF][LF]Hint: Hit CTRL+X to instantly clear the list.==在会话列表中删除指定的会话.[LF][LF]按CTRL + X快捷键可以清空列表。
+Resume all sessions that are currently paused at breakpoints.[LF]Hold SHIFT to resume only selected sessions.==继续执行所有被断点暂停的会话.[LF]按住SHIFT恢复选中的会话。
+Drag this icon to a window to show traffic from only that process.[LF]Right-click to cancel the filter.==拖动图标到想要抓取会话的窗口（进程）上面.[LF]右键点击取消过滤。
+Add a screenshot to the capture.[LF]Hold SHIFT to skip countdown.==截屏并且显示在会话列表中。[LF]按住SHIFT跳过倒计时。
+Request &Japanese Content==Request &Japanese Content
+Get Fiddler &Book...==Get Fiddler &Book...
